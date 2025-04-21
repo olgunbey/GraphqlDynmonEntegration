@@ -1,0 +1,6 @@
+@GraphqlDynmonEntegration_HostAddress = http://localhost:5113
+
+GET {{GraphqlDynmonEntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
